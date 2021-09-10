@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![img](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 <!--
 **CarlosGomes07/CarlosGomes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
