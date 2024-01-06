@@ -1,4 +1,25 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Carlos Henrique</h1>
+
+<p align="left">
+  Sou <strong>Desenvolvedor de Software</strong>,<br>
+  graduado em Sistemas de Informação pela -'UNIDESC,
+  com proficiência nessa tecnologias: JavaScript, HTML, CSS, React, TypeScrip, e muito mais...<br>
+  Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
+  
+  Entusiasta das melhores tecnologias de desenvolvimento web e mobile.<br>
+
+  "A busca pelo conhecimento é uma jornada sem fim, que nos leva a explorar os mistérios do universo e de nós mesmos."
+</p>
+
+## Contact
+<a href="https://linkedin.com/in/carlos-henrique-gomes-de-oliveira-96b88b185/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Carlos Henrique-05122A?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>&nbsp;&nbsp;
+<a href = "mailto:carlosgomes1999@hotmail.com">
+  <img align="center" src="https://img.shields.io/badge/carlosgomes1999@hotmail.com-05122A?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+</a>&nbsp;&nbsp;
+
 <!--
 **CarlosGomes07/CarlosGomes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,27 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
-
-<p align="left">
-  Olá, meu nome é Carlos Henrique sou <strong>Desenvolvedor Front End</strong>,
-  proficiência em JavaScript, HTML, CSS e Angular.<br>Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
-  Estou cursando Sistemas da Informação.<br>
-  Português – Nativo<br>
-  Inglês – Básico (cursando intermediário)<br>
-</p>
-
-<p align="left">
-  🚀 Skills: <strong>Scrum, API Rest, NodeJS, JavaScript, Java, Python, HTML5, CSS.</strong><br>
-  🚀 Conhecimento: <strong>Scrum, MySQL</strong>
-</p>
-
-<p align="left">
-  🌈 Estudando atualmente: <strong>Angular, Power BI, JavaScript</strong>
-</p>
-📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
-</p>
-<p align="left">
-<a href="mailto:carlosgomes1999@hotmail.com" alt="hotmail"> </a>
- </p>
