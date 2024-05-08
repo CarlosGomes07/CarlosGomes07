@@ -4,7 +4,7 @@
 <p align="left">
   Sou <strong>Desenvolvedor de Software</strong>,<br>
   graduado em Sistemas de Informação pela -'UNIDESC,
-  com proficiência nessa tecnologias: JavaScript, HTML, CSS, React, TypeScrip, e muito mais...<br>
+  com proficiência nessa tecnologias: Java, Spring Boot, Docker, JavaScript, HTML, CSS, React, TypeScrip, e muito mais...<br>
   Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
   
   Entusiasta das melhores tecnologias de desenvolvimento web e mobile.<br>
