@@ -2,10 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Carlos Henrique</h1>
 
 <p align="left">
-  Sou <strong>Desenvolvedor de Software</strong>,<br>
-  graduado em Sistemas de Informação pela -'UNIDESC,
-  com proficiência nessa tecnologias: Java, Spring Boot, Docker, JavaScript, HTML, CSS, React, TypeScrip, e muito mais...<br>
-  Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
+  Sou <strong>Desenvolvedor de Software</strong>,<br> graduado em Sistemas de Informação pela UNIDESC e pós-graduando em Engenharia de Software. Tenho proficiência em diversas tecnologias, como Java, Spring Boot, Docker, JavaScript, TypeScript, HTML, CSS, React, entre outras.<br>
+  
+  Sou organizado, inovador e tenho domínio de todas as fases do ciclo de desenvolvimento de software, desde a análise e modelagem até a implementação, testes e manutenção.<br>
   
   Entusiasta das melhores tecnologias de desenvolvimento web e mobile.<br>
 
