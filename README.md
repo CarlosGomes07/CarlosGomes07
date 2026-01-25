@@ -10,7 +10,7 @@
 
 <p align="left">
   Atuo no desenvolvimento de soluções modernas, escaláveis e bem arquitetadas, 
-  participando de todas as etapas do ciclo de vida do software — da análise e 
+  participando de todas as etapas do ciclo de vida do software da análise e 
   modelagem à implementação, testes e manutenção.
 </p>
 
